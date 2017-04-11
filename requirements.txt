@@ -1,2 +1,2 @@
-Flask>=0.12
+Flask==0.12.1
 simplejson==3.8.0

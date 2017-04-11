@@ -60,7 +60,7 @@ setup(
     packages=['flask_rest_toolkit'],
     maintainer='Santiago Basulto',
     install_requires=[
-        'Flask>=0.12'
+        'Flask==0.12.1'
     ],
     tests_require=[
         'cov-core==1.15.0',
